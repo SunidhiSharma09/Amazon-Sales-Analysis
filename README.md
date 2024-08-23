@@ -1,5 +1,7 @@
 ### Amazon-Sales-Analysis
 
+Live Dashboard: https://app.powerbi.com/reportEmbed?reportId=05ec45ed-7f7d-4972-bc23-18fa9136f549&autoAuth=true&ctid=f32b2380-e473-4691-8ba9-71915e0a20cd
+
 Domain - ecommerce
 
 Problem Statement
