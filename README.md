@@ -1,6 +1,6 @@
 ### Amazon-Sales-Analysis
 
-Live Dashboard: https://app.powerbi.com/reportEmbed?reportId=69b695fc-6348-48c0-8fb9-3ee8d5aeb625&autoAuth=true&ctid=f32b2380-e473-4691-8ba9-71915e0a20cd
+Live Dashboard:https://app.powerbi.com/reportEmbed?reportId=69b695fc-6348-48c0-8fb9-3ee8d5aeb625&autoAuth=true&ctid=f32b2380-e473-4691-8ba9-71915e0a20cd
 
 Domain - ecommerce
 
