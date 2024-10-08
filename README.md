@@ -2,6 +2,8 @@
 
 Live Dashboard:https://app.powerbi.com/reportEmbed?reportId=69b695fc-6348-48c0-8fb9-3ee8d5aeb625&autoAuth=true&ctid=f32b2380-e473-4691-8ba9-71915e0a20cd
 
+Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMzY1ZDZhYWItMTg2NS00NzllLWJhMDctNGIyZTJmMTI2NWY3IiwidCI6ImYzMmIyMzgwLWU0NzMtNDY5MS04YmE5LTcxOTE1ZTBhMjBjZCJ9&pageName=b90baf40a6535d53464f
+
 Domain - ecommerce
 
 Problem Statement
